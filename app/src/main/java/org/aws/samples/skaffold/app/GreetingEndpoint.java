@@ -14,6 +14,6 @@ public class GreetingEndpoint {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String get() {
-        return "Hello6";
+        return "Hello7";
     }
 }
